@@ -1,0 +1,14 @@
+https://www.w3schools.com/git/git_staging_environment.asp?remote=github
+
+1. git is version constrol system to keep track of code changes
+2. git version #git --version
+3. git and remote repository 
+4. Git is not the same as GitHub.
+5. GitHub makes tools that use Git.
+6. GitHub is the largest host of source code in the world, and has been owned by Microsoft since 2018.
+7. download Git for free from the following website: https://www.git-scm.com/
+8. Files in your Git repository folder can be in one of 2 states:
+
+Tracked - files that Git knows about and are added to the repository
+Untracked - files that are in your working directory, but not added to the repository
+9. 
